@@ -1,4 +1,4 @@
-# Starting point
+# nix-ublue
 
 [![build-ublue](https://github.com/simon-truhter/nix-ublue/actions/workflows/build.yml/badge.svg)](https://github.com/simon-truhter/nix-ublue/actions/workflows/build.yml)
 
